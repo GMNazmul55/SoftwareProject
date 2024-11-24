@@ -146,7 +146,7 @@ The Agile model is employed to ensure iterative development and prompt feedback,
 ## Agile SDLC Diagram
 The following diagram visually represents the cyclic and iterative nature of the Agile SDLC phases:
 
-> (Insert Agile SDLC Diagram here)
+> 
 >
 > ![agileDevelopmentCycle1](https://github.com/user-attachments/assets/d4747e64-9802-4d5c-ab39-84f8c386f029)
 
