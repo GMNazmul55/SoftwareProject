@@ -1,26 +1,40 @@
-# Hajee Mohammad Danesh Science and Technology University Dinajpur-5200
-**Course Code**: CSE 305
+<p align="center">
+  <img src="hstu_logo_.png" alt="hstu_logo_.png" width="250" height="300">
+</p>
+<h1 align="center">
+  <b>SkillUp Helper : A Personalized Learning and Skill Enhancement Application</b>
+</h1>
+<h3 align="center">
+  <br>
+  <b>Level-3 Semester-I Project Report</b>  
+</h3>
+<h3 align="center">
+  Course Code: CSE 305 
+</h3>
 
-**Course Title**: Software Engineering
+<h3 align="center">
+  Course Title: Software Engineering
+</h3>
+<br>
+<h3 align="center">
+  Submitted by 
+</h3>
+<h3 align="center">
+<b>G.M. Nazmul Hassan (ID: 2102055) </b> </h3>
+<br>
 
-## Project Title 
-**SkillUp Helper: A Personalized Learning and Skill Enhancement Application**
+<h3 align="center">
+  Submitted To 
+</h3>
 
-### Submitted By:
-**Name**: G.M. Nazmul Hassan  
-**Student ID**: 2102055  
-**Session**: 2021  
-**Level**: 03  
-**Semester**: I  
-**Department**: Computer Science and Engineering
+<h3 align="center"><b>Pankaj Bhowmik  </b></h3>
+<h3 align="center"><b>Lecturer, Department of CSE</b></h3>
+<br>
+<h3 align="center"> <b>Department of Computer Science and Engineering </b></h3>
+<h3 align="center"><b>Hajee Mohammad Danesh Science and Technology University  
+Dinajpur-5200</b></h3>
 
-### Submitted To:
-**Pankaj Bhowmik**  
-Lecturer  
-Department of Computer Science and Engineering  
-Hajee Mohammad Danesh Science and Technology University
-
----
+  ---
 
 ## Table of Contents
 1. [Abstract](#abstract)
