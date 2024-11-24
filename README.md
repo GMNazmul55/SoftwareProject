@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="hstu_logo_.png" alt="HSTU_Logo.png" width="250" height="300">
+  <img src="HSTU_Logo.png" alt="HSTU_Logo.png" width="250" height="300">
 </p>
 <h1 align="center">
   <b>SkillUp Helper : A Personalized Learning and Skill Enhancement Application</b>
